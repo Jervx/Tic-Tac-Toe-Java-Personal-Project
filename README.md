@@ -7,6 +7,10 @@ This is just a simple **Tic Tac Toe game** i made using Java 8. For now it **doe
 > In the future i will upload a new improve version of this game
 
 
-#### Screen Shots
+#### Screenshots
+
+*Main Menu*
 ![Main Menu](https://raw.githubusercontent.com/Jervx/TicTacToe---Java/master/Screenshot/V1/UI1.png)
+
+*Main Board*
 ![Main Board](https://raw.githubusercontent.com/Jervx/TicTacToe---Java/master/Screenshot/V1/UI2.png)
