@@ -8,5 +8,5 @@ This is just a simple **Tic Tac Toe game** i made using Java 8. For now it **doe
 
 
 #### Screen Shots
-![Image of Yaktocat](https://github.com/Jervx/TicTacToe---Java/tree/master/Screenshot/V1/UI1.png)
-![Image of Yaktocat](https://github.com/Jervx/TicTacToe---Java/tree/master/Screenshot/V1/UI2.png)
+![Main Menu](https://raw.githubusercontent.com/Jervx/TicTacToe---Java/master/Screenshot/V1/UI1.png)
+![Main Board](https://raw.githubusercontent.com/Jervx/TicTacToe---Java/master/Screenshot/V1/UI2.png)
